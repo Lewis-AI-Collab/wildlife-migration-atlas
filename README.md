@@ -39,4 +39,4 @@ If Cloudflare secrets are ever added to this repo, the atlas `pages.yml` and the
 
 ## Licence
 
-Code: MIT, © Lewis Godfrey. The globe and the time bar are adapted from [history-of-humanity-map](https://github.com/LewisAGI/history-of-humanity-map), which is the same author's MIT code. Data terms are separate — see `data/LICENSES.md`.
+Code: MIT, © Lewis Godfrey. The globe and the time bar are adapted from [history-of-humanity-map](https://github.com/Lewis-AI-Collab/history-of-humanity-map), which is the same author's MIT code. Data terms are separate — see `data/LICENSES.md`.
